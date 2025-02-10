@@ -1,6 +1,6 @@
 # NextJS Authenticator and OTP Generator
 
-A secure, self-hosted web application for generating Time-based One-Time Passwords (TOTP) for Meta platforms (currently setup forFacebook and Instagram but can be extended to any platform). Built with Next.js 14, TypeScript, and Tailwind CSS.
+A secure, self-hosted web application for generating Time-based One-Time Passwords (TOTP) for Meta platforms (currently setup for Facebook and Instagram but can be extended to any platform). Built with Next.js 14, TypeScript, and Tailwind CSS.
 
 ## 🌟 Features
 
